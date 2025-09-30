@@ -1,4 +1,5 @@
 /*global process*/
+
 import { expressjwt } from 'express-jwt'
 
 export const requireAuth = expressjwt({
