@@ -1,0 +1,4 @@
+{
+  "schema": "https://cuddly-umbrella-wq7rv77wrw5fv47w-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
